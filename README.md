@@ -1,6 +1,4 @@
-# PG-VECTOR
-
-➡️
+# PG-VECTOR ➡️
 
 ## Overview
 
