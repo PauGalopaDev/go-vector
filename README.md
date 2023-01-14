@@ -1,5 +1,7 @@
 # PG-VECTOR ➡️ (Release v1.0.0)
 
+[![Go Reference](https://pkg.go.dev/badge/github.com/pg-goose/pg-vector.svg)](https://pkg.go.dev/github.com/pg-goose/pg-vector)
+
 ## Overview
 
 **A minimal generic 2D vector package.**
