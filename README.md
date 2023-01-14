@@ -1,10 +1,10 @@
 # PG-VECTOR
 
-"Imagine a minimalist image here"
+➡️
 
 ## Overview
 
-A minimal generic 2D vector package.
+**A minimal generic 2D vector package.**
 
 The vectors are based on a length 2 array, it doesn't use slices. Includes the tipical operations between vectors.
 - Acces:
@@ -21,6 +21,8 @@ The vectors are based on a length 2 array, it doesn't use slices. Includes the t
     - X, Y
 - Tuple Acces:
     - XY, YX
+
+---
 
 ## Example
 
