@@ -1,4 +1,4 @@
-# PG-VECTOR ➡️
+# PG-VECTOR ➡️ (Release v1.0.0)
 
 ## Overview
 
